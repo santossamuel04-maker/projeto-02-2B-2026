@@ -12,7 +12,7 @@ img {
 
 }
 main {
-    display: inline;
+    display: flex;
 }
 a {
     width: 280px;
