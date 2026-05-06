@@ -27,3 +27,10 @@ width: 593px;
 height: 352px;
 
 }
+
+.principal{
+    display: flex;
+    flex-direction: column;
+
+    
+}
