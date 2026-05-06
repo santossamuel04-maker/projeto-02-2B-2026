@@ -21,6 +21,7 @@ a {
     background-color: #22D4FD;
     border-radius: 16px;
     padding: 16px;
+    margin: 20px;
 }
 .texto{
 width: 593px;
@@ -31,6 +32,7 @@ height: 352px;
 .principal{
     display: flex;
     flex-direction: column;
+    align-items: center;
 
-    
+
 }
